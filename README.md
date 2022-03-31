@@ -68,4 +68,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.
 
 
 Made with
-💜 by <a href="https://github.com/tiagopierre" target="_blank">Tiago Pierre</a>
+💜 by <a href="https://github.com/pvsmda" target="_blank">Paulo Victor</a>
